@@ -1,0 +1,12 @@
+s:2017:"<div>
+<p style="text-align:center;"><img class="img-fluid align-top" src="https://static.vecteezy.com/system/resources/previews/010/925/820/non_2x/colorful-welcome-design-template-free-vector.jpg" alt="image" width="1200" height="941" /></p>
+</div>
+<div>
+<p style="float:left;width:48%;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+</div>
+<div>
+<p style="float:right;width:48%;">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+</div>
+<div style="width:100%;text-align:center;">
+<p><a class="btn btn-primary" style="text-align:center;color:#FFFFFF;" href="https://localhost/mod/quiz/view.php?id=4">Quiz 1</a> <a class="btn btn-primary" style="text-align:center;color:#FFFFFF;" href="https://localhost/user/index.php?id=5">Participants list</a> <a class="btn btn-primary" style="text-align:center;color:#FFFFFF;" href="https://localhost/report/progress/index.php?course=5">Activity report</a></p>
+</div>";
